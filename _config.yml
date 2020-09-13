@@ -13,9 +13,9 @@ title: My page                          # the main title
 tagline: Trying to create beautiful images with common data!  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  My personal portfolio! In this page I will share all the 
+  posters and data visualizations that I create in my 
+  free time! 
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://martirubio.github.io'
