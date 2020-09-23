@@ -38,7 +38,7 @@ Images are formed by pixels. Each pixel describes a unique color with only 3 val
 
 Going back to where we were, each image is composed by pixels, but for this algorithm is best to think about each pixel as a point in space. Our goal now is to group the points into groups (clusters) making it all as tidy as possible, and luckily Python provides us many libraries to do that. One important feature was the ability to choose the number of clusters that I wanted, and so for some images I generated different palettes, each one with a different number of clusters, and I ended up deciding that I liked it more with 5 clusters!
 
-![Image](/assets/img/mult_palettes.jpg)
+![Image](/assets/img/movies/mult_palettes.jpg)
 
 As you can see, if we don't use too many clusters we get grayish and brownish colors, and if we use too many we end up with lots of colors that are not really meaningful and different from each other. That was why I chose 5 colors, nothing scientific about it. One thing that I changed was that I did not want the palette to have all 5 colors with the same size, so once I had the 5 colors I transformed the original image to those colors and I counted the number of pixels of each. Then I created each palette respecting all the proportions between the colors
 
@@ -62,7 +62,7 @@ Once I had all the palettes created it was time to generate the full image. My a
 
 Once that was done the project was pretty much finished. I did the title in Photoshop and added some more white background so it wasn't too packed. 
 
-![Image](/assets/img/movies_full.jpg)
+![Image](/assets/img/movies/movies_full.jpg)
 
 So that's pretty much it! If you have any doubts you can contact me on Twitter or write me an email! My contact can be found at the bottom side in the left menu!
 
