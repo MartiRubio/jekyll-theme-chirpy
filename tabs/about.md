@@ -11,3 +11,5 @@ title: About
 Hi! My name is Martí Rubio, I'm a developer based in Barcelona! I studied Mathematics and Computer Science and I enjoyed every moment of it. I am currently working as an Operations Data Analyst.
 
 This page is intended to contain my visualization projects, where I aim to create beautiful images from everyday data!
+
+If you like my designs you will find them in my [Redbubble page](https://www.redbubble.com/people/MartiRubio/shop) up for sale! Make sure to check that out! 😊
